@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+    font-style: italic;
+}
+article{
+    background-color: blanchedalmond;
+}
+
+.wi{
+    width: fit-content;
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 15px;
+}
+a:hover{
+    text-decoration:underline;
+    
+}
+input[type="text"]{
+    background-color: aquamarine;
+}
+h2::first-letter{
+    font-size: 200%;
+} 
+p::first-line{
+    width: fit-content;
+    background-color: rgb(209, 188, 131);
+}
+button{
+    background: #000;
+}
+#btn{
+    background: #ffff00;
+}
+#one{
+    border: 3px solid antiquewhite;
+    box-sizing: border-box;
+    padding: 15px;
+    margin: 10px;
+}
+section div{
+    width: 500px;
+    height:200px;
+    background-color: blanchedalmond;
+    display: inline-block;
+}

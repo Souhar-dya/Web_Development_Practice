@@ -1,0 +1,10 @@
+section div{
+    width:100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 20px 0;
+    transition: 3s;
+}
+section:hover div{
+    margin-left: 500px;
+}
