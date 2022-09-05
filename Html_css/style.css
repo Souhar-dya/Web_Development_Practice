@@ -8,3 +8,6 @@ section div{
 section:hover div{
     margin-left: 500px;
 }
+body{
+    width: 100%;
+}
